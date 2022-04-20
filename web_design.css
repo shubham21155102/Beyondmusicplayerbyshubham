@@ -1,0 +1,14 @@
+body {
+    background-color: chartreuse;
+}
+
+h1 {
+    text-align: center;
+    font-size: 80px;
+}
+
+hr {
+    border-style: dotted;
+    border-color: aqua;
+    border-width: 5px;
+}
