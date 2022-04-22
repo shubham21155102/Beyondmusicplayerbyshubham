@@ -7,7 +7,7 @@ h1 {
     font-size: 75px;
 }
 hr {
-    border-style: dashed;
-    border-color: rgb(30, 0, 255);
-    border-width: 20px;
+   border-style: dashed;
+    border-color: silver;
+    border-width: 10px;
 }
